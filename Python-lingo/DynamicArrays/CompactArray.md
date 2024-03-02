@@ -1,4 +1,4 @@
-#Compact Arrays
+# Compact Arrays
 
 Compact Arrays are used to store the bits that represent the primary data
 Compact Array provide high performance computing by storing Primary data consecutively in memory 
